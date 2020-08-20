@@ -1,8 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChobobDev)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seongbin-cho-120641170/)](https://www.linkedin.com/in/seongbin-cho-120641170/)
 ### Seongbin Bernie Cho
+
 Hi! glad you are here
-I am Korean TCK Developer who loves developing new things.
+:earth_asia:I am Korean TCK Developer who loves developing new things.
+:desktop_computer:I plan to be a Full-Stack developer after my Undergrad
+
 
 
 ### Technologies that I use
@@ -14,7 +17,7 @@ I am Korean TCK Developer who loves developing new things.
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 <details open>
-<summary><strong>⚡ Fun facts</strong></summary>
+<summary><strong>:stars: Fun facts</strong></summary>
    
    - I speak fluent Korean :kr: & English :gb:
    - Mid-Level fluency of Chinese :cn: & Indonesian :indonesia:
