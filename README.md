@@ -15,6 +15,7 @@ I am Korean TCK Developer who loves developing new things.
 
 <details open>
 <summary><strong>⚡ Fun facts</strong></summary>
+   
    - I speak fluent Korean & English
    - I speak Indo
 </details>
