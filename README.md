@@ -15,9 +15,8 @@ I am Korean TCK Developer who loves developing new things.
 
 <details open>
 <summary><strong>⚡ Fun facts</strong></summary>
-   - I speak fluent Korean & English :em-flag-kr:
-   - I 
-   - Favorite emoji: :smirk: (the *smirk*)
+   - I speak fluent Korean & English
+   - I speak Indo
 </details>
 
 
