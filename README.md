@@ -16,8 +16,9 @@ I am Korean TCK Developer who loves developing new things.
 <details open>
 <summary><strong>⚡ Fun facts</strong></summary>
    
-   - I speak fluent Korean & English
-   - I speak Indo
+   - I speak fluent Korean:🇰🇷:& English
+   - Mid-Level fluency of Chinese & Indonesian
+   - Adaptation Master :100:
 </details>
 
 
