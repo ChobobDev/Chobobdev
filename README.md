@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seongbin-cho-120641170/)](https://www.linkedin.com/in/seongbin-cho-120641170/)
 ### Seongbin Bernie Cho
 
-Hi! glad you are here
-:earth_asia:I am Korean TCK Developer who loves developing new things.
+Hi! glad you are here\
+:earth_asia:I am Korean TCK Developer who loves developing new things.\
 :desktop_computer:I plan to be a Full-Stack developer after my Undergrad
 
 
