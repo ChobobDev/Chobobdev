@@ -1,4 +1,7 @@
-### Hi there 👋
+### Seongbin Bernie Cho
+Hi! glad you are here
+I am 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChobobDev)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seongbin-cho-120641170/)](https://www.linkedin.com/in/seongbin-cho-120641170/)
 <!--
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chobobdev)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=chobobdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobobdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
