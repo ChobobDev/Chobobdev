@@ -12,6 +12,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![Java](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=java&logoColor=00000000)](https://www.java.com/en/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
