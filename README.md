@@ -26,8 +26,4 @@
    - Adaptation Master :100:
 </details>
 
-
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=chobobdev&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobobdev&layout=compact)
