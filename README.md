@@ -5,7 +5,7 @@
 
 :flushed:Hi! glad you are here\
 :earth_asia:I am Korean TCK Developer who loves developing new things.\
-:desktop_computer:I plan to be a Full-Stack developer after my Undergrad\
+:desktop_computer:I plan to be a Full-Stack developer after my Undergrad
 
 
 
