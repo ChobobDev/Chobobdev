@@ -4,7 +4,7 @@
 #### 致所有打工人：“早安 打工人！！！！”
 
 :flushed:Hi! glad you are here\
-:earth_asia:I am Korean TCK Developer who loves developing new things.\
+:earth_asia:I am Korean TCK Developer who loves developing new things.
 
 ### Technologies that I use
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
