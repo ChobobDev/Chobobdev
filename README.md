@@ -1,5 +1,5 @@
 - Learnt `Java` in `Java` Island
 - Former Baby OAkies
-- Trying to be a Adult Gopher
+- Aiming to be `Skilled Gopher`
 - Intereseted in both Front-end and Back-end Development
 - Aims to learn a new thing everyday
