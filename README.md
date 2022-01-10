@@ -3,7 +3,9 @@
 <p align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seongbin%20bernie%20Cho&&desc=Eager%20to%20be%20the%20best%20Gopher&fontSize=50&fontAlignY=30&descAlignY=50&descAlign=60&&descSize=25)
-  <img src="gopherb.png" style="width:200px;" />
+</p>
+<p align="center" style="..."> 
+  <img style="..." src="gopherb.png" alt="Gopher Bernie" width="200" />
 </p>
 
 <div align="center">
