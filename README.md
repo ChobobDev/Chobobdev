@@ -14,5 +14,3 @@
 
 </div>
 
-- Intereseted in both Front-end and Back-end Development
-- Aims to learn a new thing everyday
