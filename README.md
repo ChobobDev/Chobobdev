@@ -2,13 +2,13 @@
   <img style="..." src="gopherb.png" alt="Gopher Bernie" width="200" />
 </p>
 
-Hi! I am Seongbin , who resides in Korea.
+Hi! I am Seongbin , who resides in Korea.     
 I personally identify as a trailblazing futuristic developer, constantly pushing the boundaries of innovation through my insatiable curiosity for emerging technologies.
 
 <h2>Projects</h2>
-- OpenSource Project - [GlueSQL](https://github.com/gluesql/gluesql) (ing)   
-- Redis in Go Project - [Orca](https://github.com/0rcastra/Orca) (ing)
-- 
+- OpenSource Project [GlueSQL](https://github.com/gluesql/gluesql) (ing) <br/>  
+- Redis in Go Project  [Orca](https://github.com/0rcastra/Orca)  (ing)
+
 <h2>Activities</h2>
 - 비바리퍼블리카 Internal Tribe Assitant
 <div align="center">
