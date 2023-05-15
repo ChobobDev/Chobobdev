@@ -6,7 +6,7 @@ Hi! I am Seongbin , who resides in Korea.
 I personally identify as a trailblazing futuristic developer, constantly pushing the boundaries of innovation through my insatiable curiosity for emerging technologies.
 
 <h2>Projects</h2>
-- OpenSource Project - [GlueSQL](https://github.com/gluesql/gluesql) (ing)
+- OpenSource Project - [GlueSQL](https://github.com/gluesql/gluesql) (ing)   
 - Redis in Go Project - [Orca](https://github.com/0rcastra/Orca) (ing)
 - 
 <h2>Activities</h2>
