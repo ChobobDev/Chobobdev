@@ -2,6 +2,15 @@
   <img style="..." src="gopherb.png" alt="Gopher Bernie" width="200" />
 </p>
 
+Hi! I am Seongbin , who resides in Korea.
+I personally identify as a trailblazing futuristic developer, constantly pushing the boundaries of innovation through my insatiable curiosity for emerging technologies.
+
+<h2>Projects</h2>
+- OpenSource Project - [GlueSQL](https://github.com/gluesql/gluesql) (ing)
+- Redis in Go Project - [Orca](https://github.com/0rcastra/Orca) (ing)
+- 
+<h2>Activities</h2>
+- 비바리퍼블리카 Internal Tribe Assitant
 <div align="center">
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://chobobdev.github.io)](https://chobobdev.github.io/blog) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seongbin-cho-120641170/)](https://www.linkedin.com/in/seongbin-cho-120641170/)
