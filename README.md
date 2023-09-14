@@ -12,7 +12,7 @@ I personally identify as a trailblazing futuristic developer, constantly pushing
 
 <h2>Experiences</h2>
 
-- 비바리퍼블리카 Internal Tribe Assitant (2022.12 ~ present)
+- 비바리퍼블리카 Internal Tribe Assitant (2022.12 ~ 2023.09)
 
 <h2>More</h2>
 
