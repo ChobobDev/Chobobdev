@@ -1,5 +1,5 @@
-<p align="center" style="..."> 
-  <img style="..." src="avatar_2023.png" alt="Bernie" width="200" />
+<p align="center" style="...">
+  <img style="border-radius: 50%;" src="avatar_2023.png" alt="Bernie" width="200" />
 </p>
 
 Hi! I am Seongbin , who resides in Korea.     
