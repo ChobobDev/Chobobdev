@@ -2,8 +2,7 @@
   <img src="avatar_2023_rnd.png" alt="Bernie" width="200" style="border-radius: 50%;" />
 </p>
 
-Hi! I am Seongbin , who resides in Korea.     
-I personally identify as a trailblazing futuristic developer, constantly pushing the boundaries of innovation through my insatiable curiosity for emerging technologies.
+Hi! I am Seongbin.
 
 <h2>Projects</h2>
 
