@@ -7,7 +7,6 @@ Hi! I am Seongbin.
 <h2>Projects</h2>
 
 - Opensource Database Project in Rust - [GlueSQL](https://github.com/gluesql/gluesql) (ing)   
-- Redis clone project in Go - [Orca](https://github.com/0rcastra/Orca) (ing)   
 
 <h2>Experiences</h2>
 
